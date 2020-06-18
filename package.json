@@ -11,6 +11,7 @@
   "author": "bill1812",
   "license": "ISC",
   "devDependencies": {
+    "@webpack-cli/info": "^0.2.0",
     "html-webpack-plugin": "^4.3.0",
     "marked": "^1.1.0",
     "webpack": "^4.43.0",
