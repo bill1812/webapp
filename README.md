@@ -4,7 +4,7 @@ While it's recommended to run `webpack-dev-server` via the CLI, you may also
 choose to start a server via the API. This example starts a simple server setup.
 
 ```console
-node server.js
+npm start
 ```
 
 ## What should happen
